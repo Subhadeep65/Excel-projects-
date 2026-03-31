@@ -40,10 +40,12 @@ The dashboard is built using **Microsoft Excel** and includes interactive visual
 ## 📸 Dashboard Screenshots
 
 ### 🟢 Main Dashboard
-![Dashboard](./dashboard1.png)
+![Dashboard]<img width="1678" height="615" alt="Screenshot 2026-03-31 080651" src="https://github.com/user-attachments/assets/31bd50a4-fe75-496d-b509-6895e37d24b2" />
+
 
 ### 📊 Detailed Sales Analysis
-![Sales Analysis](./dashboard2.png)
+![Sales Analysis]<img width="1670" height="597" alt="Screenshot 2026-03-31 080722" src="https://github.com/user-attachments/assets/34d85267-cb80-4360-8228-267187e1c8cc" />
+
 
 ---
 
